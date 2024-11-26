@@ -15,7 +15,7 @@ viewBox="0 0 1009.52 2178.7"
     .fil15 {fill:#E1E9ED}
     .fil7 {fill:#C7D5E3}
     .fil8 {fill:#BDE2E9}
-    .fil0 {fill:#AAB6BD}
+    .fil0 {fill:#00000000}
     .fil11 {fill:#9499A1}
     .fil9 {fill:#8BAEB6}
     .fil5 {fill:#403C37}
@@ -33,6 +33,7 @@ viewBox="0 0 1009.52 2178.7"
  </defs>
  <g id="Layer_x0020_1">
   <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0" x="1.26" y="1.26" width="1006.99" height="2176.17"/>
   <g id="_1585043788464">
    <g>
     <ellipse class="fil1" cx="529.57" cy="809.95" rx="84.66" ry="169.32"/>

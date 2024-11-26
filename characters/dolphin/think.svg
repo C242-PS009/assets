@@ -10,7 +10,7 @@ viewBox="0 0 1009.52 2178.7"
     .str0 {stroke:#332C2B;stroke-width:2.53;stroke-miterlimit:22.9256}
     .fil11 {fill:#ED84B1}
     .fil18 {fill:#ECA4A9}
-    .fil0 {fill:#AAB6BD}
+    .fil0 {fill:#00000000}
     .fil12 {fill:#9499A1}
     .fil6 {fill:#7D3636}
     .fil8 {fill:#8A9096}
@@ -32,6 +32,7 @@ viewBox="0 0 1009.52 2178.7"
  </defs>
  <g id="Layer_x0020_1">
   <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0" x="1.26" y="1.26" width="1006.99" height="2176.17"/>
   <g id="_1585056180640">
    <ellipse class="fil1" cx="531.52" cy="809.95" rx="84.66" ry="169.32"/>
    <g>

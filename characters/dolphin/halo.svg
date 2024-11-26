@@ -7,10 +7,9 @@ viewBox="0 0 1009.52 2178.7"
  <defs>
   <style type="text/css">
    <![CDATA[
-    .str0 {stroke:#332C2B;stroke-width:2.53;stroke-miterlimit:22.9256}
+    .fil0 {fill:#00000000}
     .fil11 {fill:#ED84B1}
     .fil18 {fill:#ECA4A9}
-    .fil0 {fill:#AAB6BD}
     .fil12 {fill:#9499A1}
     .fil7 {fill:#7D3636}
     .fil1 {fill:#8A9096}
@@ -32,6 +31,7 @@ viewBox="0 0 1009.52 2178.7"
  </defs>
  <g id="Layer_x0020_1">
   <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0" x="1.26" y="1.26" width="1006.99" height="2176.17"/>
   <g id="_1586711798768">
    <path class="fil1" d="M771.51 1149.39c-1.81,18.35 -0.28,34.2 -21.58,45.04 -21.24,7.93 -38.03,6.66 -53.42,1.22 -18.77,-43.48 -38.29,-93.04 -57.56,-148.44 -57.15,-32.21 -69.54,-108.32 -69.54,-108.32 0,0 43.52,1.89 100.28,74.44 29.07,37.15 64.33,84.23 101.82,136.06z"/>
    <ellipse class="fil2" cx="495.88" cy="809.95" rx="84.66" ry="169.32"/>
