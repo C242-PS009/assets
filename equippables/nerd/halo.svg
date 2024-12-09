@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2018 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="79.7277mm" height="172.296mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1004.16 2170.04"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#332C2B;stroke-width:12.59;stroke-miterlimit:22.9256}
+    .str0 {stroke:#676969;stroke-width:12.59;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+    .fil20 {fill:none}
+    .fil11 {fill:#ED84B1}
+    .fil18 {fill:#ECA4A9}
+    .fil19 {fill:#F0F0F0}
+    .fil0 {fill:#00000000}
+    .fil12 {fill:#9499A1}
+    .fil7 {fill:#7D3636}
+    .fil1 {fill:#8A9096}
+    .fil8 {fill:#572627}
+    .fil10 {fill:#555A5E}
+    .fil3 {fill:#403C37}
+    .fil14 {fill:#494F57}
+    .fil16 {fill:#404547}
+    .fil17 {fill:#3C414A}
+    .fil5 {fill:#3C4654}
+    .fil4 {fill:#2E343B}
+    .fil6 {fill:#2C333B}
+    .fil15 {fill:#756A57}
+    .fil9 {fill:#FFB096}
+    .fil2 {fill:#FFC6B7}
+    .fil13 {fill:#F7F1E4}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0" x="-0" y="-0" width="1004.16" height="2170.04"/>
+  <g id="_2074705373600">
+   <g>
+    <g>
+     <circle class="fil19" cx="401.22" cy="699.05" r="75.53"/>
+     <path class="fil20 str0" d="M401.21 692.55c0,-7.19 -5.1,-13.01 -11.39,-13.01 -6.29,0 -11.39,5.83 -11.39,13.01 0,14.38 10.2,26.03 22.78,26.03 12.58,0 22.78,-11.65 22.78,-26.03 0,-21.56 -15.3,-39.04 -34.16,-39.04 -18.87,0 -34.16,17.48 -34.16,39.04 0,28.75 20.39,52.06 45.55,52.06 25.16,0 45.55,-23.31 45.55,-52.06"/>
+    </g>
+    <g>
+     <circle class="fil19" cx="605.54" cy="699.05" r="75.53"/>
+     <path class="fil20 str0" d="M605.54 692.55c0,-7.19 -5.1,-13.01 -11.39,-13.01 -6.29,0 -11.39,5.83 -11.39,13.01 0,14.38 10.2,26.03 22.78,26.03 12.58,0 22.78,-11.65 22.78,-26.03 0,-21.56 -15.3,-39.04 -34.16,-39.04 -18.87,0 -34.16,17.48 -34.16,39.04 0,28.75 20.39,52.06 45.55,52.06 25.16,0 45.55,-23.31 45.55,-52.06"/>
+    </g>
+    <polyline class="fil20 str1" points="530.01,699.05 502.81,685.72 476.75,699.05 "/>
+   </g>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2018 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="79.7277mm" height="172.296mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1004.16 2170.04"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil19 {fill:#FAC550}
+    .fil11 {fill:#ED84B1}
+    .fil18 {fill:#ECA4A9}
+    .fil20 {fill:#D9935D}
+    .fil0 {fill:#00000000}
+    .fil12 {fill:#9499A1}
+    .fil6 {fill:#7D3636}
+    .fil8 {fill:#8A9096}
+    .fil7 {fill:#572627}
+    .fil10 {fill:#555A5E}
+    .fil2 {fill:#403C37}
+    .fil14 {fill:#494F57}
+    .fil16 {fill:#404547}
+    .fil17 {fill:#3C414A}
+    .fil4 {fill:#3C4654}
+    .fil3 {fill:#2E343B}
+    .fil5 {fill:#2C333B}
+    .fil15 {fill:#756A57}
+    .fil9 {fill:#FFB096}
+    .fil1 {fill:#FFC6B7}
+    .fil13 {fill:#F7F1E4}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0" x="-0" y="-0" width="1004.16" height="2170.04"/>
+  <g id="_2074705508672">
+   <polygon class="fil19" points="444.8,335.52 627.14,375.23 719.98,189.08 648.49,235.42 663.09,150.15 601.01,221.15 580.88,120.46 527.85,204.72 483.93,114.08 477.01,198.07 434.39,132.77 "/>
+   <g>
+    <ellipse class="fil20" transform="matrix(0.977095 0.212803 -0.212803 0.977095 552.001 286.96)" rx="23.05" ry="26.1"/>
+    <ellipse class="fil20" transform="matrix(0.977095 0.212803 -0.212803 0.977095 482.743 291.771)" rx="13.05" ry="15.83"/>
+    <ellipse class="fil20" transform="matrix(0.977095 0.212803 -0.212803 0.977095 615.275 320.065)" rx="13.05" ry="15.83"/>
+   </g>
+  </g>
+ </g>
+</svg>
