@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2018 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="32.2791mm" height="32.2791mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 652.94 652.94"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#332C2B;stroke-width:20.23;stroke-miterlimit:22.9256}
+    .str0 {stroke:#676969;stroke-width:20.23;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+    .fil2 {fill:none}
+    .fil1 {fill:#F0F0F0}
+    .fil0 {fill:#00000000}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0" x="-0" y="-0" width="652.94" height="652.94"/>
+  <g id="_1726715823152">
+   <g>
+    <circle class="fil1" transform="matrix(0.924025 -0.575976 0.575976 0.924025 174.86 420.974)" r="121.31"/>
+    <path class="fil2 str0" d="M168.84 411.32c-6.65,-10.67 -19.6,-14.6 -28.94,-8.78 -9.33,5.82 -11.51,19.18 -4.86,29.85 13.3,21.33 39.21,29.2 57.88,17.56 18.67,-11.64 23.02,-38.36 9.72,-59.7 -19.95,-32 -58.82,-43.79 -86.82,-26.34 -28,17.45 -34.53,57.54 -14.58,89.55 26.6,42.67 78.42,58.39 115.76,35.12 37.33,-23.27 46.04,-76.73 19.44,-119.4"/>
+   </g>
+   <g>
+    <circle class="fil1" transform="matrix(0.924025 -0.575976 0.575976 0.924025 478.083 231.965)" r="121.31"/>
+    <path class="fil2 str0" d="M472.06 222.31c-6.65,-10.67 -19.6,-14.6 -28.94,-8.78 -9.33,5.82 -11.51,19.18 -4.86,29.85 13.3,21.33 39.21,29.2 57.88,17.56 18.67,-11.64 23.02,-38.36 9.72,-59.7 -19.95,-32 -58.82,-43.8 -86.82,-26.34 -28,17.45 -34.53,57.55 -14.58,89.55 26.6,42.67 78.43,58.39 115.76,35.12 37.33,-23.27 46.04,-76.73 19.44,-119.4"/>
+   </g>
+   <polyline class="fil2 str1" points="365.99,301.84 313.3,307.21 286.95,351.1 "/>
+  </g>
+ </g>
+</svg>
